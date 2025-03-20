@@ -6,8 +6,8 @@ if (!file_exists(__DIR__ . '/vendor/autoload.php')) {
 require_once __DIR__ . '/vendor/autoload.php';
 session_start();
 
-$OAUTH2_CLIENT_ID = '293153432093-ng9ib8rbbvvo2buhigh4k2jebk1p3i15.apps.googleusercontent.com';
-$OAUTH2_CLIENT_SECRET = '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';
+$OAUTH2_CLIENT_ID = '107013000000000000000';
+$OAUTH2_CLIENT_SECRET = 'df df dfd';
 
 $client = new Google_Client();
 $client->setClientId($OAUTH2_CLIENT_ID);

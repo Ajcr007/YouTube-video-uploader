@@ -1,0 +1,12 @@
+{
+    "name": "dell/youtube-upload-project",
+    "authors": [
+        {
+            "name": "AJIN JAMES",
+            "email": "ajinkjames9907@gmail.com"
+        }
+    ],
+    "require": {
+        "google/apiclient": "~2.0"
+    }
+}
